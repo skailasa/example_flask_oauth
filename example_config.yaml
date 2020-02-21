@@ -1,0 +1,6 @@
+CLIENT_ID:
+    "foo"
+CLIENT_SECRET:
+    "bar"
+REDIRECT_URL:
+    "baz"
