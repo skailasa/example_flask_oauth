@@ -1,2 +1,3 @@
-# example_flask_oauth
-OAuth Practice
+# Flask/Oauth Examples 
+
+OAuth examples with Flask.
